@@ -1,4 +1,4 @@
-## Shohei Yoshida
+# Shohei Yoshida
 
 <!--
 **shohei81/shohei81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 
 ### Profile
 
-I am a student at University of Tsukuba, and majoring in computer science.
+I am a student at University of Tsukuba, and majoring in international development studies & computer science.
 
 ### I'm interested in
 
 - Machine Learning
 - Probabilistic Programming
 - Bayesian statistics
-
-### More about
 
 ### GitHub Stats
 
