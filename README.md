@@ -25,7 +25,7 @@ I am a student at University of Tsukuba, and majoring in international developme
 
 - Machine Learning
 - Probabilistic Programming
-- Bayesian statistics
+- Bayesian Statistics
 
 ### GitHub Stats
 
